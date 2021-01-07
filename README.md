@@ -1,3 +1,3 @@
 ### Tetris Game ###
 
-Developed with Haaf's Game Engine (HGE)
+Developed with Cocos2D-x Game Engine
